@@ -19,7 +19,7 @@
 	<spring.data.jpa.version>2.1.6.RELEASE</spring.data.jpa.version>
 	<spring.security-version>5.1.5.RELEASE</spring.security-version>
 	<hibernate.core-version>5.4.2.Final</hibernate.core-version>
-	<postgresql-version>42.2.5</postgresql-version>
+	<postgresql-version>42.2.25</postgresql-version>
 	<modelmapper-version>2.3.0</modelmapper-version>
 	<cache.api-version>1.1.0</cache.api-version>
 	<ehcache-version>3.7.0</ehcache-version>
