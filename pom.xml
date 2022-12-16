@@ -11,7 +11,7 @@
   	<javax.servlet-version>3.0.1</javax.servlet-version>
   	<maven.compiler.plugin-version>3.8.0</maven.compiler.plugin-version>
   	<maven.war.plugin-version>2.3</maven.war.plugin-version>
-	<org.springframework-version>5.1.6.RELEASE</org.springframework-version>
+	<org.springframework-version>5.2.20.RELEASE</org.springframework-version>
 	<version.javax.servlet.api>3.0.1</version.javax.servlet.api>
 	<jstl-version>1.2</jstl-version>
 	<commons.fileupload-version>1.3.1</commons.fileupload-version>
